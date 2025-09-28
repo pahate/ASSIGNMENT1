@@ -1,4 +1,4 @@
-# ASSIGNMENT1
+# Task1
 num1 = 5
 num2 = 10
 
@@ -15,3 +15,13 @@ print("Addition:", addition)
 print("Subtraction:", subtraction)
 print("Multiplication:", multiplication)
 print("Division:", division)
+
+Task2 
+first_name = "John"
+last_name = "Doe"
+
+
+full_name = first_name + " " + last_name
+
+
+print("Hello,", full_name + "! Welcome aboard.")
