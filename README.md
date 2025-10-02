@@ -8,6 +8,11 @@ o	Subtraction
 o	Multiplication
 o	Division
 3.  Displays the results of each operation on the screen.
+
+
+  
+  
+  # python code
    
 num1 = 5
 num2 = 10
@@ -40,7 +45,7 @@ Problem Statement: Write a Python program that:
 
 
 
-
+# Python Code
 first_name = "John"
 last_name = "Doe"
 
