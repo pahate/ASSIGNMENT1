@@ -6,7 +6,7 @@ Takes a user's first name and last name as input.
 Concatenates the first name and last name into a full name.
 Prints a personalized greeting message using the full name.
 take first_name = "John",last_name = "Doe"
-Python Code
+# Python Code
 first_name = "John" last_name = "Doe"
 
 full_name = first_name + " " + last_name
