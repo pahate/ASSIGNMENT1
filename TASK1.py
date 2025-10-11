@@ -9,7 +9,7 @@ addition = num1 + num2
 subtraction = num1 - num2
 multiplication = num1 * num2
 
-# Handle division carefully to avoid division by zero
+# Handle division 
 if num2 != 0:
     division = num1 / num2
 else:
@@ -20,4 +20,5 @@ print("Results of operations on 5 and 10:")
 print(f"Addition: {num1} + {num2} = {addition}")
 print(f"Subtraction: {num1} - {num2} = {subtraction}")
 print(f"Multiplication: {num1} * {num2} = {multiplication}")
+
 print(f"Division: {num1} / {num2} = {division}")
